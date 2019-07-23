@@ -1,6 +1,6 @@
 FROM phusion/baseimage:0.9.16
-MAINTAINER Yoshiofthewire <Yoshi@urlxl.com>
-#Based on the work of gfjardim <gfjardim@gmail.com>
+MAINTAINER Silicondust <support@silicondust.com>
+#Based on the work of Yoshiofthewire <Yoshi@urlxl.com> and gfjardim <gfjardim@gmail.com>
 
 #########################################
 ##        ENVIRONMENTAL CONFIG         ##
