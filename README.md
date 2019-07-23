@@ -9,8 +9,3 @@ The re-setup the tuner, which will update the firmware and you may have to re-sc
 
 unRaid Clients:
 Then check for Docker updates.
-
-
-After install go to:
-
-Your Kodi Client
